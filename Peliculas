@@ -1,6 +1,8 @@
 #EXTM3U
 A
 B
+#EXTINF:0, Bad boys 3
+https://cdn.lbryplayer.xyz/api/v4/streams/free/bad-boys-3-pelicula-completa/320065a7a3a37048d1131348061730de46c1fb46/a48471
 #EXTINF:0, Becky
 https://cdn.lbryplayer.xyz/api/v4/streams/free/Becky.2020.1080p-dual-lat-cinecalidad.is/4e5f569bcf2ffc7c18d8020841d29b73350cb7a1/4c22ac
 C
