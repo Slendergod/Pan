@@ -1,6 +1,8 @@
 #EXTM3U
 A
 B
+#EXTINF:0, Becky
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Becky.2020.1080p-dual-lat-cinecalidad.is/4e5f569bcf2ffc7c18d8020841d29b73350cb7a1/4c22ac
 C
 D
 E
