@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Undefined",24/7 Canal de Noticias,CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Telemax
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?checkedby:iptvcat.com
