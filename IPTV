@@ -5,3 +5,5 @@ https://tv.teleclub.xyz/canales/latino.m3u
 https://tv.teleclub.xyz/canales/latino2.m3u
 #EXTINF:0, TDTChannels
 https://raw.githubusercontent.com/Slendergod/Pan/main/TDTChannels
+#EXTINF:0, TV en español 
+https://iptv-org.github.io/iptv/languages/spa.m3u
