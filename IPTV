@@ -3,3 +3,5 @@
 https://tv.teleclub.xyz/canales/latino.m3u
 #EXTINF:0, Teleclub 2
 https://tv.teleclub.xyz/canales/latino2.m3u
+#EXTINF:0, TDTChannels
+https://raw.githubusercontent.com/Slendergod/Pan/main/TDTChannels
