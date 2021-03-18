@@ -5,7 +5,7 @@ https://tv.teleclub.xyz/canales/latino.m3u
 https://tv.teleclub.xyz/canales/latino2.m3u
 #EXTINF:0, TDTChannels
 https://raw.githubusercontent.com/Slendergod/Pan/main/TDTChannels
-#EXTINF:0, TV en español 468 canales + o -
+#EXTINF:0, TV en español 342 canales + o -
 https://iptv-org.github.io/iptv/languages/spa.m3u
 #EXTINF:0, Algunos canales Argentinos
 https://raw.githubusercontent.com/Slendergod/Pan/main/Algunos%20canales%20Argentinos
