@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Undefined",24/7 Canal de Noticias,CN 24/7
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="Undefined",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Undefined",24/7 Canal de Noticias,CN 24/7
