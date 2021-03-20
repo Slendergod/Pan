@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, IPTV
 https://raw.githubusercontent.com/Slendergod/Pan/main/IPTV
-#EXTINF:0, Peliculas
+#EXTINF:0, Peliculas (Por el momento retirado)
 https://raw.githubusercontent.com/Slendergod/Pan/main/Peliculas
 #EXTINF:0, Radio
 https://raw.githubusercontent.com/Slendergod/Pan/main/Radio
