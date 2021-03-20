@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0, TDTChannels radio 1
+https://www.tdtchannels.com/lists/radio.m3u
+#EXTINF:0, TDTChannels radio 2
+https://www.tdtchannels.com/lists/radio.m3u8
