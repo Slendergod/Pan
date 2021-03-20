@@ -1,5 +1,10 @@
 #EXTM3U
 #EXTINF:-1, Telefuturo
 https://copaco.desdeparaguay.net:443/telefuturo/telefuturo_py_med/chunklist_w1737155291.m3u8?k=dae8cba10932e9acc54e97e4a0f249890d9cb58259675d954aa361c6e2f50043&exp=1616248379
+#EXTINF:-1, LaTele
+https://copaco.desdeparaguay.net:443/latele/latele_py_med/chunklist_w2024318576.m3u8?k=38e462b0a9faef86eafddceb83a3531d16759c3b0078e4b4d31c673463f1865a&exp=1616250938
+#EXTINF:-1, NPY
+https://copaco.desdeparaguay.net:443/npy/npy_py_med/chunklist_w465024308.m3u8?k=a732d825e6e120800671ea775efb40092fb1b98886a76236d30fd2b74abd742d&exp=1616251033
 #EXTINF:-1, SNT
 https://py-snt-snt-live.ned.media:443/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2MzM1NTg3LCJzZXNzaW9uIjoiMTc3LjI1MC4yNTIuMTI3Iiwid2hpdGVsaXN0IjpbIjE3Ny4yNTAuMjUyLjEyNyJdfSwic2lnbmF0dXJlIjoiMWZhMTRmOTdlMWNkMzQxNmE5YjkwMTA2N2MzMjY5NDZlODVkZmFmYyJ9
+
