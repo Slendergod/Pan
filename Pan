@@ -3,3 +3,5 @@
 https://raw.githubusercontent.com/Slendergod/Pan/main/IPTV
 #EXTINF:0, Peliculas
 https://raw.githubusercontent.com/Slendergod/Pan/main/Peliculas
+#EXTINF:0, Radio
+https://raw.githubusercontent.com/Slendergod/Pan/main/Radio
