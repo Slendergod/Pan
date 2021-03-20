@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0, Teleclub
+#EXTINF:0, Algunos canales Argentinos
+https://raw.githubusercontent.com/Slendergod/Pan/main/Algunos%20canales%20Argentinos
+#EXTINF:0, Teleclub 1
 https://tv.teleclub.xyz/canales/latino.m3u
 #EXTINF:0, Teleclub 2
 https://tv.teleclub.xyz/canales/latino2.m3u
@@ -9,6 +11,4 @@ https://www.tdtchannels.com/lists/tv.m3u
 https://www.tdtchannels.com/lists/tv.m3u8
 #EXTINF:0, TV en español 342 canales + o -
 https://raw.githubusercontent.com/Slendergod/Pan/main/TV%20en%20espa%C3%B1ol%20342%20canales%20%2B%20o%20-
-#EXTINF:0, Algunos canales Argentinos
-https://raw.githubusercontent.com/Slendergod/Pan/main/Algunos%20canales%20Argentinos
 
