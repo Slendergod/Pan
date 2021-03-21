@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Telefuturo
-https://copaco.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=fbdf64c55e48261de587f6e3f4027d7120e520a4b5921d6d65a9c74dba9cff2b&exp=1616333786 
+https://copaco.desdeparaguay.net:443/telefuturo/telefuturo_py_med/chunklist_w865642516.m3u8?k=b745cc5135a9af71a5cb1e35eabc2d78f798afc487ba9107a458b41ddea74149&exp=1616335566
 #EXTINF:-1, Unicanal
 http://45.55.127.106/live/unicanal.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, ABC TV
