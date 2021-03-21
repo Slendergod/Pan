@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1, Telefuturo
-
+https://copaco.desdeparaguay.net/telefuturo/telefuturo_py_med/playlist.m3u8?k=a59cdb484d5afb748ca8a4f4235b92db54fbbddc3a3b9a0c0b548d0a6c14cb2a&exp=1616314407
 #EXTINF:-1, Unicanal
 http://45.55.127.106/live/unicanal.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1, LaTele
-
+https://copaco.desdeparaguay.net/latele/latele_py_med/playlist.m3u8?k=bde7cdfb1e0d8d33e64f254241c58e24dd9607abcf29e762e4e9f943068e6ec7&exp=1616314519
 #EXTINF:-1, NPY
-
+https://copaco.desdeparaguay.net/npy/npy_py_med/playlist.m3u8?k=4a71ced68d9a4e4441c5b1f139212fa3fa8b66dcbf0582481a642ecd1952b802&exp=1616314590
 #EXTINF:-1, SNT
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2MzU2OTEyLCJzZXNzaW9uIjoiMTc3LjI1MC4yNTIuMTI3Iiwid2hpdGVsaXN0IjpbIjE3Ny4yNTAuMjUyLjEyNyJdfSwic2lnbmF0dXJlIjoiYzgyMzAxYWIxODM5OTQ0NjRhY2E3YWIwZDgwZTJiM2M3N2ZkYTJhYyJ9
