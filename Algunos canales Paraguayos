@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, SNT (En el caso de que no funciones contactar con el soporte)
+
 #EXTINF:-1, Unicanal
 http://45.55.127.106/live/unicanal.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, ABC TV
