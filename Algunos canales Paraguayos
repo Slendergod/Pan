@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, SNT (En el caso de que no funciones contactar con el soporte)
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2NzYxNzA1LCJzZXNzaW9uIjoiMTc3LjI1MC4yNTIuNzciLCJ3aGl0ZWxpc3QiOlsiMTc3LjI1MC4yNTIuNzciXX0sInNpZ25hdHVyZSI6IjQ3ZDI2MWI5ZTQ5NzAzNWI0NmM3MzhiNTJlMjk0ZWZmYjY2Y2E4OWMifQ%3D%3D
 #EXTINF:-1, Unicanal
 http://45.55.127.106/live/unicanal.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, ABC TV
