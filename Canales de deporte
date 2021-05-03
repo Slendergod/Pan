@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deporte", TNT SPORT [Club]
+https://tv.teleclub.xyz/canales/L1/TNTSPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deporte", Fox Sport Premium [Club]
+https://tv.teleclub.xyz/canales/L1/FOXSPORTSPREMIUM.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport LAT [Club]
+https://tv.teleclub.xyz/canales/L1/FOXSPORT_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 2 LAT [Club]
+https://tv.teleclub.xyz/canales/L1/FOXSPORT2_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 3 LAT [Club]
+https://tv.teleclub.xyz/canales/L1/FOXSPORT3_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport MEX [Club]
+https://tv.teleclub.xyz/canales/L1/FOXSPORT_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 2 MEX [Club]
+https://tv.teleclub.xyz/canales/L1/FOXSPORT2_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 3 MEX [Club]
+https://tv.teleclub.xyz/canales/L1/FOXSPORT3_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN LAT [Club]
+https://tv.teleclub.xyz/canales/L1/ESPN_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 2 LAT [Club]
+https://tv.teleclub.xyz/canales/L1/ESPN2_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 3 LAT [Club]
+https://tv.teleclub.xyz/canales/L1/ESPN3_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN EXTRA LAT [Club]
+https://tv.teleclub.xyz/canales/L1/ESPNPLUS_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN MEX [Club]
+https://tv.teleclub.xyz/canales/L1/ESPN_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 2 MEX [Club]
+https://tv.teleclub.xyz/canales/L1/ESPN2_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 3 MEX [Club]
+https://tv.teleclub.xyz/canales/L1/ESPN3_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN EXTRA MEX [Club]
+https://tv.teleclub.xyz/canales/L1/ESPNPLUS_MEX.m3u8
