@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:0, En total
 http://www.m3u.cl/lista/total.m3u
-#EXTINF:0, ***Paises***
+***Paises***
 
 #EXTINF:0, Paraguay
 http://www.m3u.cl/lista/PY.m3u
 #EXTINF:0, Argentina
 http://www.m3u.cl/lista/AR.m3u
+#EXTINF:0, Mas de Argentina
+https://raw.githubusercontent.com/Slendergod/Pan/main/Algunos%20canales%20Argentinos
 #EXTINF:0, Bolivia
 http://www.m3u.cl/lista/BO.m3u
 #EXTINF:0, Chile
@@ -25,7 +27,7 @@ http://www.m3u.cl/lista/PE.m3u
 http://www.m3u.cl/lista/DO.m3u
 #EXTINF:0, Venezuela
 http://www.m3u.cl/lista/VE.m3u
-#EXTINF:0, ***Categorias***
+***Categorias***
 
 #EXTINF:0, Musica
 http://www.m3u.cl/lista/musica.m3u
