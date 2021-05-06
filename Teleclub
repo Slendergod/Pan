@@ -1,4 +1,4 @@
-#ENTX
+#EXTM3U
 #EXTINF:0, Teleclub 1 (En el caso de que no funciones contactar con el soporte)
 https://tv.teleclub.xyz/lista/latino.m3u
 #EXTINF:0, Teleclub 2 (En el caso de que no funciones contactar con el soporte)
@@ -7,3 +7,5 @@ https://tv.teleclub.xyz/lista/latino2.m3u
 https://tv.teleclub.xyz/lista/latino3.m3u
 #EXTINF:0, Teleclub 4 (En el caso de que no funciones contactar con el soporte)
 https://tv.teleclub.xyz/lista/latino4.m3u
+#EXTINF:0, Teleclub adulto
+https://tv.teleclub.xyz/lista/xxx.m3u
