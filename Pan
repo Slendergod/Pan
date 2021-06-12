@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0, IPTV
 https://raw.githubusercontent.com/Slendergod/Pan/main/IPTV
-#EXTINF:0, Peliculas (Testeo)
-https://raw.githubusercontent.com/Slendergod/Peliculas-/main/LBRY%20PELIS
 #EXTINF:0, Radio
 https://raw.githubusercontent.com/Slendergod/Pan/main/Radio
