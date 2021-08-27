@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:0, Deportes (De momento no usar :3)
+#EXTINF:0, Deportes (De momento no usar)
 https://raw.githubusercontent.com/Slendergod/Pan/main/Canales%20de%20deporte
-#EXTINF:0, Lista de M3U.CL (En el caso de que no funciones contactar con el soporte)
+#EXTINF:0, Lista de M3U.CL 
 https://raw.githubusercontent.com/Slendergod/Pan/main/M3U.CL
-#EXTINF:0, Lista de Teleclub (En el caso de que no funciones contactar con el soporte)
+#EXTINF:0, Lista de Teleclub 
 https://raw.githubusercontent.com/Slendergod/Pan/main/Teleclub
-#EXTINF:0, TDTChannels TV 1
+#EXTINF:0, TDTChannels TV 
 https://www.tdtchannels.com/lists/tv.m3u
-#EXTINF:0, TDTChannels TV 2
-https://www.tdtchannels.com/lists/tv.m3u8
-#EXTINF:0, TV en español (No todos funcionan)
+#EXTINF:0, TV en español 
 https://raw.githubusercontent.com/Slendergod/Pan/main/TV%20en%20espa%C3%B1ol%20342%20canales%20%2B%20o%20-
 
