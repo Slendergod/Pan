@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0, Teleclub (Opcion FULL)
-https://tv.teleclub.xyz/2021/tv.m3u
+http://tv.teleclub.xyz/live/tv.m3u
 #EXTINF:0, Teleclub (Opcion 1)
-https://tv.teleclub.xyz/2021/club.m3u
+
 #EXTINF:0, Teleclub (Opcion 2)
-https://tv.teleclub.xyz/2021/club2.m3u
+
 #EXTINF:0, Teleclub (Opcion 3)
-https://tv.teleclub.xyz/2021/club3.m3u
+
