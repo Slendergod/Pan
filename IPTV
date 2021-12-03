@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0, Deportes (De momento no usar)
-
+#EXTINF:0, Deportes
+https://raw.githubusercontent.com/Slendergod/Pan/main/Canales%20de%20deporte
 #EXTINF:0, Lista de M3U.CL 
 https://raw.githubusercontent.com/Slendergod/Pan/main/M3U.CL
 #EXTINF:0, Lista de Teleclub 
