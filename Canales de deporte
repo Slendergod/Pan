@@ -1,32 +1,117 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQgcpZY.png" group-title="Deporte", TNT SPORT 
-https://tv.teleclub.xyz/canales/L1/TNTSPORTS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport LAT 
-https://tv.teleclub.xyz/canales/L1/FOXSPORT_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 2 LAT 
-https://tv.teleclub.xyz/canales/L1/FOXSPORT2_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 3 LAT 
-https://tv.teleclub.xyz/canales/L1/FOXSPORT3_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport MEX 
-https://tv.teleclub.xyz/canales/L1/FOXSPORT_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 2 MEX 
-https://tv.teleclub.xyz/canales/L1/FOXSPORT2_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deporte", Fox Sport 3 MEX 
-https://tv.teleclub.xyz/canales/L1/FOXSPORT3_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN LAT 
-https://tv.teleclub.xyz/canales/L1/ESPN_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 2 LAT 
-https://tv.teleclub.xyz/canales/L1/ESPN2_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 3 LAT 
-https://tv.teleclub.xyz/canales/L1/ESPN3_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN EXTRA LAT 
-https://tv.teleclub.xyz/canales/L1/ESPNPLUS_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN MEX 
-https://tv.teleclub.xyz/canales/L1/ESPN_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 2 MEX 
-https://tv.teleclub.xyz/canales/L1/ESPN2_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN 3 MEX 
-https://tv.teleclub.xyz/canales/L1/ESPN3_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deporte", ESPN EXTRA MEX 
-https://tv.teleclub.xyz/canales/L1/ESPNPLUS_MEX.m3u8
+-CLUB 1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/76Bnb59.png" group-title="Deportes [Club1]", UFC [Club]
+http://tv.teleclub.xyz/live/hls_01/UFC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsiPN1X.png" group-title="Deportes [Club1]", NBA [Club]
+http://tv.teleclub.xyz/live/hls_01/NBA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="Deportes [Club1]", GolPeru [Club]
+http://tv.teleclub.xyz/live/hls_01/GOLPERU.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q9eV0bt.png" group-title="Deportes [Club1]", ESPN Deportes [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPN_DEPORTE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes [Club1]", Estadio TNT Sports [Club]
+http://tv.teleclub.xyz/live/hls_01/TNTSPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes [Club1]", TNT Sports 2 [Club]
+http://tv.teleclub.xyz/live/hls_01/TNTSPORTS_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes [Club1]", TNT Sports 3 [Club]
+http://tv.teleclub.xyz/live/hls_01/TNTSPORT_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvVz5TJ.png" group-title="Deportes [Club1]", Tigo Sports PY [Club]
+http://tv.teleclub.xyz/live/hls_01/PY_TIGOSPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvVz5TJ.png" group-title="Deportes [Club1]", Tigo Sports BO [Club]
+http://tv.teleclub.xyz/live/hls_01/PY_TIGOSPORTSPLUS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes [Club1]", Bein Sport Ñ [Club]
+http://tv.teleclub.xyz/live/hls_01/BEINSPORTN.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes [Club1]", Win Sport [Club]
+http://tv.teleclub.xyz/live/hls_01/WINSPORT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes [Club1]", Win Sport Plus [Club]
+http://tv.teleclub.xyz/live/hls_01/WINSPORTPLUS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes [Club1]", CLARO SPORT [Club]
+http://tv.teleclub.xyz/live/hls_01/CLAROSPORT2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes [Club1]", GOLTV [Club]
+http://tv.teleclub.xyz/live/hls_01/GOLTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes [Club1]", DIRECTV SPORT [Club]
+http://tv.teleclub.xyz/live/hls_01/DIRECTV_SPORT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes [Club1]", DIRECTV SPORT 2 [Club]
+http://tv.teleclub.xyz/live/hls_01/DIRECTV_SPORT2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes [Club1]", DIRECTV SPORT PLUS [Club]
+http://tv.teleclub.xyz/live/hls_01/DIRECTV_SPORTPLUS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjnOlda.png" group-title="Deportes [Club1]", Fox Sport Premium [Club]
+http://tv.teleclub.xyz/live/hls_01/FOXSPORTSPREMIUM.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club1]", Fox Sport LAT [Club]
+http://tv.teleclub.xyz/live/hls_01/FOXSPORT_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club1]", Fox Sport 2 LAT [Club]
+http://tv.teleclub.xyz/live/hls_01/FOXSPORT2_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club1]", Fox Sport 3 LAT [Club]
+http://tv.teleclub.xyz/live/hls_01/FOXSPORT3_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club1]", Fox Sport MEX [Club]
+http://tv.teleclub.xyz/live/hls_01/FOXSPORT_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club1]", Fox Sport 2 MEX [Club]
+http://tv.teleclub.xyz/live/hls_01/FOXSPORT2_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club1]", Fox Sport 3 MEX [Club]
+http://tv.teleclub.xyz/live/hls_01/FOXSPORT3_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club1]", ESPN LAT [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPN_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club1]", ESPN 2 LAT [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPN2_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club1]", ESPN 3 LAT [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPN3_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club1]", ESPN EXTRA LAT [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPNPLUS_LAT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club1]", ESPN MEX [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPN_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club1]", ESPN 2 MEX [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPN2_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club1]", ESPN 3 MEX [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPN3_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club1]", ESPN EXTRA MEX [Club]
+http://tv.teleclub.xyz/live/hls_01/ESPNPLUS_MEX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deportes [Club1]", TUDN USA [Club]
+http://tv.teleclub.xyz/live/hls_01/TUDN_USA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mptxVUO.png" group-title="Deportes [Club1]", TUDN MX [Club]
+http://tv.teleclub.xyz/live/hls_01/TUDN_MX.m3u8
+
+-CLUB 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2ymiLi.png" group-title="Deportes [Club2]", Afizzionados [Club2]
+http://tv.teleclub.xyz/live/hls_02/AFIZZIONADOS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqwJxJM.jpg" group-title="Deportes [Club2]", WWE [Club2]
+http://tv.teleclub.xyz/live/hls_02/W_FIGHT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsiPN1X.png" group-title="Deportes [Club2]", NBA [Club2]
+http://tv.teleclub.xyz/live/hls_02/NBA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="Deportes [Club2]", GolPeru [Club2]
+http://tv.teleclub.xyz/live/hls_02/GOLPERU.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q9eV0bt.png" group-title="Deportes [Club2]", ESPN Deportes [Club2]
+http://tv.teleclub.xyz/live/hls_02/ESPN_DEPORTES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes [Club2]", Bein Sport Ñ [Club2]
+http://tv.teleclub.xyz/live/hls_02/BEINSPORTS_N.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes [Club2]", Bein Sport Ñ 2 [Club2]
+http://tv.teleclub.xyz/live/hls_02/BEINSPORTS_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes [Club2]", Win Sport [Club2]
+http://tv.teleclub.xyz/live/hls_02/WIN_SPORTS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes [Club2]", Win Sport Plus [Club2]
+http://tv.teleclub.xyz/live/hls_02/WIN_SPORTS_PLUS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes [Club2]", CLARO SPORT [Club2]
+http://tv.teleclub.xyz/live/hls_02/CLARO.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes [Club2]", GOLTV [Club2]
+http://tv.teleclub.xyz/live/hls_02/GOLTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes [Club2]", DIRECTV SPORT [Club2]
+http://tv.teleclub.xyz/live/hls_02/DIRECTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="Deportes [Club2]", DIRECTV SPORT 2 [Club2]
+http://tv.teleclub.xyz/live/hls_02/DIRECTV2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club2]", Fox Sport Premium [Club2]
+http://tv.teleclub.xyz/live/hls_02/FOXSPORTS_PREMIUM.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club2]", Fox Sport MEX [Club2]
+http://tv.teleclub.xyz/live/hls_02/FOXSPORTS_MX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club2]", Fox Sport 2 MEX [Club2]
+http://tv.teleclub.xyz/live/hls_02/FOXSPORTS2_MX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes [Club2]", Fox Sport 3 MEX [Club2]
+http://tv.teleclub.xyz/live/hls_02/FOXSPORTS3_MX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club2]", ESPN MEX [Club2]
+http://tv.teleclub.xyz/live/hls_02/ESPN_MX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club2]", ESPN 2 MEX [Club2]
+http://tv.teleclub.xyz/live/hls_02/ESPN2_MX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club2]", ESPN 3 MEX [Club2]
+http://tv.teleclub.xyz/live/hls_02/ESPN3_MX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="Deportes [Club2]", ESPN EXTRA MEX [Club2]
+http://tv.teleclub.xyz/live/hls_02/ESPNEXTRA_MX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dBcYy9m.png" group-title="Deportes [Club2]", TyC Sports [Club2]
+http://tv.teleclub.xyz/live/hls_02/TYC_SPORTS.m3u8
